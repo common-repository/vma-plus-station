@@ -1,0 +1,374 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-25 09:25+0900\n"
+"PO-Revision-Date: 2024-09-25 14:50+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#. Description of the plugin
+#: vma-plus.php
+msgid ""
+"Vma plus Station Plugin is a plugin that allows you to easily build a "
+"metaverse on WordPress. It enables users to initiate a virtual space and "
+"offers features such as free movement within the virtual environment and the "
+"option to set destination URLs as thumbnails."
+msgstr ""
+"Vma plus Station プラグインは、WordPress 上でメタバースを簡単に構築できるプラ"
+"グインです。仮想空間を開始でき、仮想環境内での自由な移動や、サムネイルとして"
+"リンク先 URL を設定するオプションなどの機能を提供します。"
+
+#: commons/about.php:223
+msgid "Support"
+msgstr "お問い合わせ"
+
+#: commons/about.php:234
+msgid "Metaverse content planning and management"
+msgstr "メタバースコンテンツの企画と運営"
+
+#: commons/about.php:244
+#, php-format
+msgid ""
+"In the \"Metaverse,\" a virtual world of infinite possibilities,<br>people "
+"can achieve their dreams equally, regardless of where they were born, where "
+"they grew up, their family environment, or the color of their skin. They can "
+"even create a paradigm shift in things that would be impossible to achieve "
+"in the real world.<br>Vma+ builds a community world where people from all "
+"over the world gather in the Metaverse, and by matching everything to the "
+"market (ma) of the virtual (V) space (+), we provide new options for solving "
+"social issues.<br><br>Vma+ operates the metaverse platform \"Vma plus "
+"Station,\" which can be easily enjoyed in a browser.<br>Try out the "
+"lightweight and beautiful metaverse space.<br><br>Web site: <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">%s</a><br>Social media: <a "
+"href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">%s</a>"
+msgstr ""
+"無限の可能性がある仮想世界\"メタバース\"では生まれた場所・育った環境・家庭環"
+"境や肌の色に関わらず<br>人々は平等に自分の夢を叶えることができリアルの世界で"
+"は到底実現できない事でもパラダイムシフトを起こす事ができるのです。<br><br>Vマ"
+"＋はメタバースで世界中の人々が集うコミュニティ世界を築き<br>バーチャル (V) 空"
+"間のマーケット (マ) にあらゆるのモノを合わせていき (＋)<br>トークンエコノミー"
+"とかけあわせることで現代社会の課題解決に新たな選択肢を提供します。<br><br>Vマ"
+"＋はブラウザから簡単にアクセスできる3D空間である「Vma plus Station」を運営し"
+"ています。<br>軽量で美しい、メタバースの空間をぜひお試しください。"
+"<br><br>Web site: <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">%s</a><br>Social media: <a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">%s</a>"
+
+#: commons/about.php:261
+msgid "Open Vma plus Station"
+msgstr "Vma plus Station を開く"
+
+#: commons/about.php:273
+msgid "System Information"
+msgstr "システム情報"
+
+#: commons/about.php:281
+msgid "Copy System Information"
+msgstr "コピー"
+
+#: commons/about.php:288
+msgid ""
+"Displays system information to be used for debugging and support.<br>When "
+"contacting technical support, please attach your system information to the "
+"inquiry form and submit it."
+msgstr ""
+"デバッグやサポートに使用するシステム情報を表示します。<br>テクニカルサポート"
+"にお問い合わせいただく際は、お問い合わせフォームにシステム情報を添付して送信"
+"してください。"
+
+#: commons/about.php:293
+msgid "Open Inquiry Form"
+msgstr "お問い合わせ"
+
+#: free/metaverses-settings.php:173 pro/metaverses-settings.php:139
+msgid "Edit Site"
+msgstr "サイト編集"
+
+#: free/metaverses-settings.php:176 pro/metaverses-settings.php:140
+msgid "SELECT WORLD"
+msgstr "ワールド選択"
+
+#: free/metaverses-settings.php:212 pro/metaverses-settings.php:298
+msgid "Image Map"
+msgstr "ワールドマップ"
+
+#: free/metaverses-settings.php:229 pro/metaverses-settings.php:320
+#: pro/vma-plus.php:1325
+msgid "Save Settings"
+msgstr "保存"
+
+#: free/vma-plus.php:318
+msgid "This template can only be used on one post at a time."
+msgstr "このテンプレートは一度に一つのみ利用できます。"
+
+#: free/vma-plus.php:369 pro/vma-plus.php:592
+#, php-format
+msgid "More information about %s"
+msgstr "もっと見る %s"
+
+#: free/vma-plus.php:371 pro/vma-plus.php:594
+msgid "View details"
+msgstr "詳細"
+
+#: free/vma-plus.php:428 free/vma-plus.php:1422 pro/vma-plus.php:672
+#: pro/vma-plus.php:1617
+msgid "Select Image"
+msgstr "画像を選択"
+
+#: free/vma-plus.php:429 pro/vma-plus.php:673
+msgid "Use this image"
+msgstr "選択"
+
+#: free/vma-plus.php:430 free/vma-plus.php:1423 pro/vma-plus.php:674
+#: pro/vma-plus.php:1618
+msgid "No file selected"
+msgstr "画像が選択されていません"
+
+#: free/vma-plus.php:435
+msgid "Confirmation"
+msgstr "確認"
+
+#: free/vma-plus.php:436
+msgid ""
+"NOTE: If you are unable to upload your purchased file, please see <a "
+"href=\"https://wordpress.org/support/topic/how-to-increase-maximum-upload-"
+"file-size-from-2mb/\" target=\"_blank\">here.</a>"
+msgstr ""
+"注意：WordPress の最大アップロードサイズが低く設定されている場合、購入したプ"
+"ラグインのアップロードに失敗する場合がございます。最大アップロードサイズの変"
+"更は<a href=\"https://wordpress.org/support/topic/how-to-increase-maximum-"
+"upload-file-size-from-2mb/\" target=\"_blank\">こちら</a>をご参考ください。"
+
+#: free/vma-plus.php:437
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: free/vma-plus.php:438
+msgid "Proceed"
+msgstr "続行"
+
+#: free/vma-plus.php:439
+msgid "Page deleted successfully."
+msgstr "ページが正常に削除されました。"
+
+#: free/vma-plus.php:440 pro/vma-plus.php:679 pro/vma-plus.php:1283
+msgid "Failed to delete page."
+msgstr "ページの削除に失敗しました。"
+
+#: free/vma-plus.php:441 pro/vma-plus.php:687
+msgid "System information copied to clipboard."
+msgstr "システム情報が正常にコピーされました。"
+
+#: free/vma-plus.php:442 pro/vma-plus.php:688
+msgid "Failed to copy system information."
+msgstr "システム情報のコピーに失敗しました。"
+
+#: free/vma-plus.php:456 pro/vma-plus.php:710
+msgid "MANAGE SITE PATH"
+msgstr "サイトパス設定"
+
+#: free/vma-plus.php:463 pro/vma-plus.php:717
+msgid "MANAGE IMAGE"
+msgstr "画像設定"
+
+#: free/vma-plus.php:544 pro/vma-plus.php:821
+msgid "Settings"
+msgstr "設定"
+
+#: free/vma-plus.php:552 free/vma-plus.php:636 free/vma-plus.php:637
+msgid "Upgrade to Pro"
+msgstr "Pro 版へ更新"
+
+#: free/vma-plus.php:569
+#, php-format
+msgid ""
+"Upgrade to Pro for additional features! <a href=\"%s\" target=\"_blank\">%s</"
+"a>"
+msgstr ""
+"Pro にアップグレードすると、さらに機能が追加されます！ <a href=\"%s\" "
+"target=\"_blank\">%s</a>"
+
+#: free/vma-plus.php:575
+msgid "Upgrade Now"
+msgstr "今すぐ Pro 版へ更新"
+
+#: free/vma-plus.php:612 free/vma-plus.php:613 free/vma-plus.php:844
+#: pro/vma-plus.php:846 pro/vma-plus.php:847 pro/vma-plus.php:1071
+msgid "Metaverses"
+msgstr "メタバース"
+
+#: free/vma-plus.php:620 free/vma-plus.php:621 pro/vma-plus.php:854
+#: pro/vma-plus.php:855
+msgid "Worlds"
+msgstr "ワールド"
+
+#: free/vma-plus.php:628 free/vma-plus.php:629 pro/vma-plus.php:862
+#: pro/vma-plus.php:863
+msgid "About Us"
+msgstr "サポート"
+
+#: free/vma-plus.php:699
+msgid "The PlayCanvas page already exists."
+msgstr "メタバースページは既に存在しています。"
+
+#: free/vma-plus.php:713 free/vma-plus.php:855 pro/vma-plus.php:1079
+msgid "Create New Site"
+msgstr "サイトを作成"
+
+#: free/vma-plus.php:941 pro/vma-plus.php:1181
+msgid "View Site"
+msgstr "サイトを見る"
+
+#: free/vma-plus.php:945 pro/vma-plus.php:1186
+msgid "Edit"
+msgstr "編集"
+
+#: free/vma-plus.php:947 free/vma-plus.php:1424 pro/vma-plus.php:677
+#: pro/vma-plus.php:1188 pro/vma-plus.php:1619
+msgid "Delete"
+msgstr "削除"
+
+#: free/vma-plus.php:955 pro/vma-plus.php:1196
+#, php-format
+msgid "The site &quot;%s&quot; will be deleted."
+msgstr "このサイト &quot;%s&quot; を削除します。"
+
+#: free/vma-plus.php:956 pro/vma-plus.php:1197
+msgid "Are you sure?"
+msgstr "よろしいですか？"
+
+#: free/vma-plus.php:968 pro/vma-plus.php:1209
+msgid "No"
+msgstr "いいえ"
+
+#: free/vma-plus.php:969 pro/vma-plus.php:1210
+msgid "Yes"
+msgstr "はい"
+
+#: free/vma-plus.php:977 pro/vma-plus.php:1218
+msgid "No Site Exists. Click \"Create New Site\" to create a new Metaverse."
+msgstr ""
+"メタバースはまだ作成されていません、\"サイトを作成\"から、メタバースを作成し"
+"てください。"
+
+#: free/vma-plus.php:1034 pro/vma-plus.php:1349
+msgid "Nonce verification failed."
+msgstr "認証に失敗しました。"
+
+#: free/vma-plus.php:1063 pro/vma-plus.php:1405
+msgid "Failed to update PlayCanvas page."
+msgstr "サイトの更新に失敗しました。"
+
+#: free/vma-plus.php:1065 pro/vma-plus.php:1383 pro/vma-plus.php:1409
+msgid "Settings updated successfully."
+msgstr "設定の更新に成功しました。"
+
+#: free/vma-plus.php:1398 pro/vma-plus.php:1593
+msgid "Destination URL"
+msgstr "遷移先 URL"
+
+#: free/worlds-settings.php:104 pro/worlds-settings.php:383
+#: pro/worlds-settings.php:393
+msgid "Upload World"
+msgstr "ワールドアップロード"
+
+#: free/worlds-settings.php:110 pro/worlds-settings.php:414
+msgid "REGISTERED WORLD"
+msgstr "登録済みワールド"
+
+#: free/worlds-settings.php:130 pro/worlds-settings.php:480
+msgid "POPULAR WORLD"
+msgstr "人気のワールド"
+
+#: pro/vma-plus.php:678 pro/vma-plus.php:1268
+msgid "Page and associated options deleted successfully."
+msgstr "ページと関連データを正常に削除しました。"
+
+#: pro/vma-plus.php:680
+msgid "World uploaded and extracted successfully."
+msgstr "ワールドが正常にアップロードされました。"
+
+#: pro/vma-plus.php:681
+msgid "Failed to extract the zip file."
+msgstr "ワールドの zip ファイル解凍に失敗しました。"
+
+#: pro/vma-plus.php:682
+msgid "Failed to move uploaded file."
+msgstr "アップロードしたファイルの移動にに失敗しました。"
+
+#: pro/vma-plus.php:683
+msgid "Please upload a valid zip file."
+msgstr "有効な zipファイルをアップロードしてください。"
+
+#: pro/vma-plus.php:684
+msgid "World deleted successfully."
+msgstr "ワールドが正常に削除されました。"
+
+#: pro/vma-plus.php:685
+msgid "Failed to delete the world."
+msgstr "ワールドの削除に失敗しました。"
+
+#: pro/vma-plus.php:686
+msgid "The specified world does not exist."
+msgstr "指定されたワールドは存在しません。"
+
+#: pro/vma-plus.php:687
+msgid "Are you sure you want to delete this world?"
+msgstr "選択したワールドを削除してもよろしいですか ？"
+
+#: pro/vma-plus.php:1248
+msgid "Failed to render edit page. Function not found."
+msgstr "画面の表示に失敗しました。"
+
+#: pro/vma-plus.php:1278
+msgid "Failed to delete associated options."
+msgstr "関連データの削除に失敗しました。"
+
+#: pro/vma-plus.php:1357
+msgid "Page ID not found."
+msgstr "ページ ID が見つかりませんでした。"
+
+#: pro/vma-plus.php:1381
+msgid "Failed to update settings."
+msgstr "設定の更新に失敗しました。"
+
+#: pro/worlds-settings.php:22
+msgid "Failed to create directory."
+msgstr "フォルダの作成に失敗しました。"
+
+#: pro/worlds-settings.php:385
+msgid "How to create own world?"
+msgstr "自分でワールドを作るには？"
+
+#: pro/worlds-settings.php:405
+msgid ""
+"If you have a world in a .zip format, you may install it by uploading it "
+"here."
+msgstr ""
+".zip 形式のワールドをお持ちの方は、ここにアップロードしてインストールしてくだ"
+"さい。"
+
+#: pro/worlds-settings.php:409
+msgid "Upload"
+msgstr "アップロード"
+
+#~ msgid "SITES"
+#~ msgstr "SITES"
+
+#~ msgid "https://www.vma-plus.com"
+#~ msgstr "https://www.vma-plus.com"
+
+#~ msgid "https://linktr.ee/vma_plus"
+#~ msgstr "https://linktr.ee/vma_plus"

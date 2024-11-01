@@ -1,0 +1,206 @@
+.vma-plus-container {
+    padding-right: 20px;
+    float: inline-start;
+    width: 100%;
+}
+
+.metaverse-image-section {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+.metaverse-image-setting {
+    border-top: 0.5px solid black;
+    border-bottom: 0.5px solid black;
+    width: 100%;
+}
+
+.wporg h1 {
+    width: 100% !important;
+    padding: 10px 0px;
+    border-radius: 15px;
+    font-size: 23px;
+    font-weight: 400;
+}
+
+.wporg h2 {
+    padding-left: 15px;
+}
+
+.wporg .metaverse-image-section h2 {
+    width: 100%;
+    padding: 20px;
+    margin-top: 8px;
+    border-radius: 15px;
+}
+
+
+.wporg .metaverse-image-setting h2 {
+    width: 30%;
+    padding: 0;
+    margin-top: 8px;
+    border-radius: 15px;
+}
+
+.wporg tbody {
+    display: flex;
+    border-radius: 15px;
+    border: 1px solid #141414;
+    border-style: outset;
+    border-left: 6px solid orange;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 130px;
+}
+
+.metaverse-image-setting .form-table tbody {
+    border: none;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    flex: 1;
+    text-align: center;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+    grid-template-rows: auto;
+    gap: 1rem;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.metaverse_settings th {
+    display: none;
+}
+
+.metaverse_settings td {
+    display: flex;
+    align-items: flex-start;
+    padding: 0;
+    width: 100%;
+}
+
+.wporg th label {
+    display: block;
+    text-align: center;
+}
+
+.wporg input[type="button"] {
+    border-radius: 5px;
+}
+
+p.submit {
+    padding-left: 15px;
+    width: 100%;
+}
+
+#submit {
+    border-radius: 15px;
+}
+
+
+.create-button-lock {
+    display: inline-block;
+    background-color: #f6f7f7;
+    color: #2271b1;
+    padding: 4px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 400;
+    border-radius: 3px;
+    position: relative;
+    overflow: hidden;
+    margin: 0px 10px;
+    border: 1px solid #2271b1;
+}
+
+.create-button-lock:hover {
+    background-color: #f0f0f1;
+}
+
+.create-button-lock:focus {
+    border-color: #3582c4;
+    box-shadow: 0 0 0 1px #3582c4;
+    outline: 2px solid transparent;
+}
+
+.create-button-lock:visited {
+    background-color: #f0f0f1;
+    color: #2271b1;
+}
+
+.create-button-lock .lock-icon {
+    margin-right: 8px;
+}
+
+.create-button-lock .pro-badge {
+    background-color: #2271b1;
+    color: #f6f7f7;
+    margin-left: 8px;
+    padding: 0px 11px;
+    border-radius: 3px;
+    vertical-align: middle;
+}
+
+.metaverse_settings label {
+    padding: 0px 0px 0px 10px;
+}
+
+.upload_image img {
+    height: 150px;
+    width: 150px;
+}
+
+.contents-file {
+    align-items: center;
+}
+
+.upload_image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Target specific rows */
+.metaverse-image-setting tr:nth-child(1) {
+    grid-column: 1;
+    grid-row: 1 / 3;
+}
+
+.metaverse-image-setting tr:nth-child(2) {
+    grid-column: 2;
+}
+
+.metaverse-image-setting tr:nth-child(3) {
+    grid-column: 2;
+}
+
+.url-input {
+    width: 140px;
+}
+
+.file-input {
+    padding: 0.375rem 1.99rem !important;
+}
+
+.image-map {
+    background-color: #2271b1;
+    color: #f0f0f1;
+    position: fixed;
+    margin-top: -119px;
+    top: 100%;
+    left: 100%;
+    margin-left: -170px;
+    z-index: 11000;
+    max-width: 300px;
+}
+
+img#map_image {
+    max-width: 300px;
+}

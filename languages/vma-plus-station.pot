@@ -1,0 +1,333 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Vma plus Station\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-25 09:25+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Vma plus <wordpress@vma-plus.com>\n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Description of the plugin
+#: vma-plus.php
+msgid "Vma plus Station Plugin is a plugin that allows you to easily build a metaverse on WordPress. It enables users to initiate a virtual space and offers features such as free movement within the virtual environment and the option to set destination URLs as thumbnails."
+msgstr ""
+
+#: commons/about.php:223
+msgid "Support"
+msgstr ""
+
+#: commons/about.php:234
+msgid "Metaverse content planning and management"
+msgstr ""
+
+#: commons/about.php:244
+#, php-format
+msgid ""
+"In the \"Metaverse,\" a virtual world of infinite possibilities,<br>people "
+"can achieve their dreams equally, regardless of where they were born, where "
+"they grew up, their family environment, or the color of their skin. They can "
+"even create a paradigm shift in things that would be impossible to achieve "
+"in the real world.<br>Vma+ builds a community world where people from all "
+"over the world gather in the Metaverse, and by matching everything to the "
+"market (ma) of the virtual (V) space (+), we provide new options for solving "
+"social issues.<br><br>Vma+ operates the metaverse platform \"Vma plus "
+"Station,\" which can be easily enjoyed in a browser.<br>Try out the "
+"lightweight and beautiful metaverse space.<br><br>Web site: <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">%s</a><br>Social media: <a "
+"href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">%s</a>"
+msgstr ""
+
+#: commons/about.php:261
+msgid "Open Vma plus Station"
+msgstr ""
+
+#: commons/about.php:273
+msgid "System Information"
+msgstr ""
+
+#: commons/about.php:281
+msgid "Copy System Information"
+msgstr ""
+
+#: commons/about.php:288
+msgid ""
+"Displays system information to be used for debugging and support.<br>When "
+"contacting technical support, please attach your system information to the "
+"inquiry form and submit it."
+msgstr ""
+
+#: commons/about.php:293
+msgid "Open Inquiry Form"
+msgstr ""
+
+#: free/metaverses-settings.php:173 pro/metaverses-settings.php:139
+msgid "Edit Site"
+msgstr ""
+
+#: free/metaverses-settings.php:176 pro/metaverses-settings.php:140
+msgid "SELECT WORLD"
+msgstr ""
+
+#: free/metaverses-settings.php:212 pro/metaverses-settings.php:298
+msgid "Image Map"
+msgstr ""
+
+#: free/metaverses-settings.php:229 pro/metaverses-settings.php:320
+#: pro/vma-plus.php:1325
+msgid "Save Settings"
+msgstr ""
+
+#: free/vma-plus.php:318
+msgid "This template can only be used on one post at a time."
+msgstr ""
+
+#: free/vma-plus.php:369 pro/vma-plus.php:592
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: free/vma-plus.php:371 pro/vma-plus.php:594
+msgid "View details"
+msgstr ""
+
+#: free/vma-plus.php:428 free/vma-plus.php:1422 pro/vma-plus.php:672
+#: pro/vma-plus.php:1617
+msgid "Select Image"
+msgstr ""
+
+#: free/vma-plus.php:429 pro/vma-plus.php:673
+msgid "Use this image"
+msgstr ""
+
+#: free/vma-plus.php:430 free/vma-plus.php:1423 pro/vma-plus.php:674
+#: pro/vma-plus.php:1618
+msgid "No file selected"
+msgstr ""
+
+#: free/vma-plus.php:435
+msgid "Confirmation"
+msgstr ""
+
+#: free/vma-plus.php:436
+msgid ""
+"NOTE: If you are unable to upload your purchased file, please see <a "
+"href=\"https://wordpress.org/support/topic/how-to-increase-maximum-upload-"
+"file-size-from-2mb/\" target=\"_blank\">here.</a>"
+msgstr ""
+
+#: free/vma-plus.php:437
+msgid "Cancel"
+msgstr ""
+
+#: free/vma-plus.php:438
+msgid "Proceed"
+msgstr ""
+
+#: free/vma-plus.php:439
+msgid "Page deleted successfully."
+msgstr ""
+
+#: free/vma-plus.php:440 pro/vma-plus.php:679 pro/vma-plus.php:1283
+msgid "Failed to delete page."
+msgstr ""
+
+#: free/vma-plus.php:441 pro/vma-plus.php:687
+msgid "System information copied to clipboard."
+msgstr ""
+
+#: free/vma-plus.php:442 pro/vma-plus.php:688
+msgid "Failed to copy system information."
+msgstr ""
+
+#: free/vma-plus.php:456 pro/vma-plus.php:710
+msgid "MANAGE SITE PATH"
+msgstr ""
+
+#: free/vma-plus.php:463 pro/vma-plus.php:717
+msgid "MANAGE IMAGE"
+msgstr ""
+
+#: free/vma-plus.php:544 pro/vma-plus.php:821
+msgid "Settings"
+msgstr ""
+
+#: free/vma-plus.php:552 free/vma-plus.php:636 free/vma-plus.php:637
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: free/vma-plus.php:569
+#, php-format
+msgid ""
+"Upgrade to Pro for additional features! <a href=\"%s\" target=\"_blank\">%s</"
+"a>"
+msgstr ""
+
+#: free/vma-plus.php:575
+msgid "Upgrade Now"
+msgstr ""
+
+#: free/vma-plus.php:612 free/vma-plus.php:613 free/vma-plus.php:844
+#: pro/vma-plus.php:846 pro/vma-plus.php:847 pro/vma-plus.php:1071
+msgid "Metaverses"
+msgstr ""
+
+#: free/vma-plus.php:620 free/vma-plus.php:621 pro/vma-plus.php:854
+#: pro/vma-plus.php:855
+msgid "Worlds"
+msgstr ""
+
+#: free/vma-plus.php:628 free/vma-plus.php:629 pro/vma-plus.php:862
+#: pro/vma-plus.php:863
+msgid "About Us"
+msgstr ""
+
+#: free/vma-plus.php:699
+msgid "The PlayCanvas page already exists."
+msgstr ""
+
+#: free/vma-plus.php:713 free/vma-plus.php:855 pro/vma-plus.php:1079
+msgid "Create New Site"
+msgstr ""
+
+#: free/vma-plus.php:941 pro/vma-plus.php:1181
+msgid "View Site"
+msgstr ""
+
+#: free/vma-plus.php:945 pro/vma-plus.php:1186
+msgid "Edit"
+msgstr ""
+
+#: free/vma-plus.php:947 free/vma-plus.php:1424 pro/vma-plus.php:677
+#: pro/vma-plus.php:1188 pro/vma-plus.php:1619
+msgid "Delete"
+msgstr ""
+
+#: free/vma-plus.php:955 pro/vma-plus.php:1196
+#, php-format
+msgid "The site &quot;%s&quot; will be deleted."
+msgstr ""
+
+#: free/vma-plus.php:956 pro/vma-plus.php:1197
+msgid "Are you sure?"
+msgstr ""
+
+#: free/vma-plus.php:968 pro/vma-plus.php:1209
+msgid "No"
+msgstr ""
+
+#: free/vma-plus.php:969 pro/vma-plus.php:1210
+msgid "Yes"
+msgstr ""
+
+#: free/vma-plus.php:977 pro/vma-plus.php:1218
+msgid "No Site Exists. Click \"Create New Site\" to create a new Metaverse."
+msgstr ""
+
+#: free/vma-plus.php:1034 pro/vma-plus.php:1349
+msgid "Nonce verification failed."
+msgstr ""
+
+#: free/vma-plus.php:1063 pro/vma-plus.php:1405
+msgid "Failed to update PlayCanvas page."
+msgstr ""
+
+#: free/vma-plus.php:1065 pro/vma-plus.php:1383 pro/vma-plus.php:1409
+msgid "Settings updated successfully."
+msgstr ""
+
+#: free/vma-plus.php:1398 pro/vma-plus.php:1593
+msgid "Destination URL"
+msgstr ""
+
+#: free/worlds-settings.php:104 pro/worlds-settings.php:383
+#: pro/worlds-settings.php:393
+msgid "Upload World"
+msgstr ""
+
+#: free/worlds-settings.php:110 pro/worlds-settings.php:414
+msgid "REGISTERED WORLD"
+msgstr ""
+
+#: free/worlds-settings.php:130 pro/worlds-settings.php:480
+msgid "POPULAR WORLD"
+msgstr ""
+
+#: pro/vma-plus.php:678 pro/vma-plus.php:1268
+msgid "Page and associated options deleted successfully."
+msgstr ""
+
+#: pro/vma-plus.php:680
+msgid "World uploaded and extracted successfully."
+msgstr ""
+
+#: pro/vma-plus.php:681
+msgid "Failed to extract the zip file."
+msgstr ""
+
+#: pro/vma-plus.php:682
+msgid "Failed to move uploaded file."
+msgstr ""
+
+#: pro/vma-plus.php:683
+msgid "Please upload a valid zip file."
+msgstr ""
+
+#: pro/vma-plus.php:684
+msgid "World deleted successfully."
+msgstr ""
+
+#: pro/vma-plus.php:685
+msgid "Failed to delete the world."
+msgstr ""
+
+#: pro/vma-plus.php:686
+msgid "The specified world does not exist."
+msgstr ""
+
+#: pro/vma-plus.php:687
+msgid "Are you sure you want to delete this world?"
+msgstr ""
+
+#: pro/vma-plus.php:1248
+msgid "Failed to render edit page. Function not found."
+msgstr ""
+
+#: pro/vma-plus.php:1278
+msgid "Failed to delete associated options."
+msgstr ""
+
+#: pro/vma-plus.php:1357
+msgid "Page ID not found."
+msgstr ""
+
+#: pro/vma-plus.php:1381
+msgid "Failed to update settings."
+msgstr ""
+
+#: pro/worlds-settings.php:22
+msgid "Failed to create directory."
+msgstr ""
+
+#: pro/worlds-settings.php:385
+msgid "How to create own world?"
+msgstr ""
+
+#: pro/worlds-settings.php:405
+msgid ""
+"If you have a world in a .zip format, you may install it by uploading it "
+"here."
+msgstr ""
+
+#: pro/worlds-settings.php:409
+msgid "Upload"
+msgstr ""
